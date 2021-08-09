@@ -11,6 +11,7 @@ LAN선을 인식은 하고 있는지 확인
 sudo lshw -C network
 ```
 description: Wireless interface -> Wifi
+
 description: Ethernet interface -> LAN -> 이게 보이면 인식은 하고 있다는 것!
 
 1. product check
@@ -21,12 +22,10 @@ Ex) https://www.realtek.com/en/component/zoo/category/network-interface-controll
 
 3. 재시작
 
-'''
+```
 sudo reboot
-'''
-
+```
 or
-
-'''
+```
 service networking restart
-'''
+```
