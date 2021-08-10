@@ -1,14 +1,15 @@
 # error_ubuntu_list
+Ubuntu 18.04 기준 
 
 ## Table
-1. [Ubuntu 18.04 기준 이더넷 (Wifi 아님) 인식이 안되는 현상] (#Ubuntu-18.04-기준-이더넷-(Wifi-아님)-인식이-안되는-현상)
+1. [이더넷 (Wifi 아님) 인식이 안되는 현상] (#Ubuntu-18.04-기준-이더넷-(Wifi-아님)-인식이-안되는-현상)
 
 ## 기본적인 Ubuntu 문제 해결방법
 Try:
 ```
 sudo reboot
 ```
-## Ubuntu 18.04 기준 이더넷 (Wifi 아님) 인식이 안되는 현상
+## 이더넷 (Wifi 아님) 인식이 안되는 현상
 
 LAN선을 인식은 하고 있는지 확인
 ```
