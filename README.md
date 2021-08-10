@@ -1,4 +1,4 @@
-# error_ubuntu_list
+# error_list_ubuntu
 Ubuntu 18.04 기준 
 
 # 목차
