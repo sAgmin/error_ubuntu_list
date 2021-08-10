@@ -1,7 +1,7 @@
 # error_ubuntu_list
 Ubuntu 18.04 기준 
 
-## Table
+# 목차
 1. [이더넷 (Wifi 아님) 인식이 안되는 현상] (#이더넷-인식이-안되는-현상)
 
 ## 기본적인 Ubuntu 문제 해결방법
