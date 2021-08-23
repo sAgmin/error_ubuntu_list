@@ -23,10 +23,19 @@ description: Ethernet interface -> LAN -> 이게 보이면 인식은 하고 있�
 1. product check
 Ex) Realtek Semiconductor Co., Ltd.
 
-2. 해당 회사홈페이지에서 LAN Driver install
+2. 해당 회사홈페이지에서 LAN Driver download
 Ex) https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software
 
-3. 재시작
+3. required pakage install
+```
+sudo apt install r8168-dkms
+```
+4. install driver
+
+```
+sudo ./autorun.sh
+```
+5. 재시작
 ```
 service networking restart
 ```
